@@ -19,4 +19,15 @@ def get_marca(self):
 def set_marca(self, nueva_marca):
   self.marca = nueva_marca
 
-def get_modelo
+def get_modelo(self):
+  return self.modelo
+
+def set_modelo(self, nuevo-modelo):
+  self.modelo = nuevo_modelo
+
+def get_kilometraje(self):
+  return self.kilometraje
+
+def set_kilometraje = (self, nuevo_kilometraje):
+  self.kilometraje = nuevo_kilometraje
+
